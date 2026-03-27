@@ -1,0 +1,38 @@
+{
+  "type": "feature_collection_parts",
+  "name": "new_haven_county_map_features",
+  "part_files": [
+    "new_haven_county_map_features.part01.geojson"
+  ],
+  "feature_count": 11921,
+  "municipalities": [
+    "ANSONIA",
+    "BEACON FALLS",
+    "BETHANY",
+    "BRANFORD",
+    "CHESHIRE",
+    "DERBY",
+    "EAST HAVEN",
+    "GUILFORD",
+    "HAMDEN",
+    "MADISON",
+    "MERIDEN",
+    "MIDDLEBURY",
+    "MILFORD",
+    "NAUGATUCK",
+    "NEW HAVEN",
+    "NORTH BRANFORD",
+    "NORTH HAVEN",
+    "North Haven",
+    "ORANGE",
+    "OXFORD",
+    "PROSPECT",
+    "SEYMOUR",
+    "SOUTHBURY",
+    "WALLINGFORD",
+    "WATERBURY",
+    "WEST HAVEN",
+    "WOLCOTT",
+    "WOODBRIDGE"
+  ]
+}
