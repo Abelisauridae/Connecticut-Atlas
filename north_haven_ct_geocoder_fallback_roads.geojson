@@ -1,0 +1,4202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Adeline Drive",
+        "normalized_name": "ADELINE DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3754522"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.838587507843,
+            41.396007865912
+          ],
+          [
+            -72.838587507849,
+            41.395893274537
+          ],
+          [
+            -72.838531296198,
+            41.39600786591
+          ],
+          [
+            -72.838530125129,
+            41.395893274535
+          ],
+          [
+            -72.838475084553,
+            41.396007865908
+          ],
+          [
+            -72.837912968106,
+            41.396007865889
+          ],
+          [
+            -72.837182216725,
+            41.396007865864
+          ],
+          [
+            -72.836507676988,
+            41.396007865841
+          ],
+          [
+            -72.835834880562,
+            41.396015918954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Bishop Street",
+        "normalized_name": "BISHOP ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3719957"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.871965755663,
+            41.392032944101
+          ],
+          [
+            -72.871941862378,
+            41.392146124909
+          ],
+          [
+            -72.872320828505,
+            41.392075130991
+          ],
+          [
+            -72.872367282628,
+            41.392196958639
+          ],
+          [
+            -72.872676075433,
+            41.392119386516
+          ],
+          [
+            -72.873033931526,
+            41.392169344141
+          ],
+          [
+            -72.873209937585,
+            41.392317268867
+          ],
+          [
+            -72.873384296786,
+            41.392229751965
+          ],
+          [
+            -72.873630375897,
+            41.392389758256
+          ],
+          [
+            -72.874057814629,
+            41.392450957701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Bishop Street",
+        "normalized_name": "BISHOP ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3744755"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.874242532856,
+            41.392367670226
+          ],
+          [
+            -72.874405021113,
+            41.392404587686
+          ],
+          [
+            -72.874511926589,
+            41.392423718303
+          ],
+          [
+            -72.874568103592,
+            41.39243282809
+          ],
+          [
+            -72.874680457598,
+            41.392451047665
+          ],
+          [
+            -72.874850017889,
+            41.39247967903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Bishop Street",
+        "normalized_name": "BISHOP ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3748928"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.876691089156,
+            41.392812384041
+          ],
+          [
+            -72.877526447252,
+            41.392966036286
+          ],
+          [
+            -72.878360103243,
+            41.393126595404
+          ],
+          [
+            -72.879189166966,
+            41.393296176672
+          ],
+          [
+            -72.879354979711,
+            41.393330092926
+          ],
+          [
+            -72.880021133067,
+            41.393435569669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Bleeker Circle",
+        "normalized_name": "BLEEKER CIR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "650756257"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.82824623019,
+            41.362437872062
+          ],
+          [
+            -72.828721192391,
+            41.362437872078
+          ],
+          [
+            -72.829196154593,
+            41.362437872094
+          ],
+          [
+            -72.829263572805,
+            41.362631151483
+          ],
+          [
+            -72.829248081877,
+            41.362987442392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Bridgeview Road",
+        "normalized_name": "BRIDGEVIEW RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "649724333"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.851182221856,
+            41.368840156451
+          ],
+          [
+            -72.851051175394,
+            41.368781342017
+          ],
+          [
+            -72.851160673211,
+            41.368867197888
+          ],
+          [
+            -72.851029177819,
+            41.368808946818
+          ],
+          [
+            -72.851139124567,
+            41.368894239325
+          ],
+          [
+            -72.850923638403,
+            41.369164653836
+          ],
+          [
+            -72.850643505368,
+            41.36951619334
+          ],
+          [
+            -72.850384921029,
+            41.369840691344
+          ],
+          [
+            -72.850078258618,
+            41.370175465504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Broadway",
+        "normalized_name": "BROADWY",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "637212495"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.861397494737,
+            41.388705649948
+          ],
+          [
+            -72.86138875264,
+            41.388820053507
+          ],
+          [
+            -72.86167681004,
+            41.388832443084
+          ],
+          [
+            -72.86196486744,
+            41.388844832661
+          ],
+          [
+            -72.86210889614,
+            41.388851027449
+          ],
+          [
+            -72.862398735592,
+            41.388859708945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Broadway",
+        "normalized_name": "BROADWY",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3720056"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.862550238365,
+            41.388864726418
+          ],
+          [
+            -72.862676234103,
+            41.388869572412
+          ],
+          [
+            -72.86280356473,
+            41.388873283908
+          ],
+          [
+            -72.863055736097,
+            41.388879833823
+          ],
+          [
+            -72.863307907463,
+            41.388886383738
+          ],
+          [
+            -72.863558698693,
+            41.388894859548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Broadway",
+        "normalized_name": "BROADWY",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3720031"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.863712370235,
+            41.388899948845
+          ],
+          [
+            -72.863761441947,
+            41.38890131195
+          ],
+          [
+            -72.864104742205,
+            41.388911116203
+          ],
+          [
+            -72.86444821187,
+            41.388921293095
+          ],
+          [
+            -72.864683718434,
+            41.388938482336
+          ],
+          [
+            -72.86482935447,
+            41.388955126462
+          ],
+          [
+            -72.86518250793,
+            41.388969868178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Broadway",
+        "normalized_name": "BROADWY",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "604743172"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.870313462485,
+            41.389579853769
+          ],
+          [
+            -72.870332278299,
+            41.389584919567
+          ],
+          [
+            -72.870559606125,
+            41.389645053005
+          ],
+          [
+            -72.87078660322,
+            41.389703257404
+          ],
+          [
+            -72.871016025447,
+            41.389780338782
+          ],
+          [
+            -72.871231841782,
+            41.389857140576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Buell Street",
+        "normalized_name": "BUELL ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712069"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.904492051398,
+            41.375845485926
+          ],
+          [
+            -72.904449127827,
+            41.375955457389
+          ],
+          [
+            -72.904112554751,
+            41.375762394723
+          ],
+          [
+            -72.903353138026,
+            41.375601053392
+          ],
+          [
+            -72.902973429663,
+            41.375520382726
+          ],
+          [
+            -72.902595758844,
+            41.375436908271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Buell Street",
+        "normalized_name": "BUELL ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712071"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.902299322362,
+            41.375746998528
+          ],
+          [
+            -72.901657856478,
+            41.375612800604
+          ],
+          [
+            -72.901266044335,
+            41.375649792771
+          ],
+          [
+            -72.900933977987,
+            41.375465153015
+          ],
+          [
+            -72.900353211367,
+            41.375461383656
+          ],
+          [
+            -72.900297597538,
+            41.3753279875
+          ],
+          [
+            -72.899862156803,
+            41.375344786192
+          ],
+          [
+            -72.899662698708,
+            41.375177235223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Buell Street",
+        "normalized_name": "BUELL ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712099"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.89951130049,
+            41.375145100286
+          ],
+          [
+            -72.899392908243,
+            41.375118436927
+          ],
+          [
+            -72.899331299373,
+            41.375102676514
+          ],
+          [
+            -72.899208081632,
+            41.375071155688
+          ],
+          [
+            -72.899084863891,
+            41.375039634861
+          ],
+          [
+            -72.898961901951,
+            41.375008028218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Buell Street",
+        "normalized_name": "BUELL ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702324"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.898764971497,
+            41.375074337717
+          ],
+          [
+            -72.898526554533,
+            41.374999540219
+          ],
+          [
+            -72.898168745066,
+            41.374889562172
+          ],
+          [
+            -72.89780928417,
+            41.374780721394
+          ],
+          [
+            -72.897689463871,
+            41.374744441135
+          ],
+          [
+            -72.89709048013,
+            41.374564950212
+          ],
+          [
+            -72.896610861927,
+            41.37441653838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Buell Street",
+        "normalized_name": "BUELL ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702326"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.896467721425,
+            41.374367845401
+          ],
+          [
+            -72.896212621084,
+            41.374277212239
+          ],
+          [
+            -72.895985433895,
+            41.374200459791
+          ],
+          [
+            -72.895725791393,
+            41.374112742707
+          ],
+          [
+            -72.895498652394,
+            41.374038754778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Centerbrook Road",
+        "normalized_name": "CENTERBROOK RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3757580"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.854504807822,
+            41.386184295773
+          ],
+          [
+            -72.854355605093,
+            41.386208792032
+          ],
+          [
+            -72.854557998957,
+            41.386366665439
+          ],
+          [
+            -72.854598204702,
+            41.386557439778
+          ],
+          [
+            -72.854445773299,
+            41.387115241939
+          ],
+          [
+            -72.854303397802,
+            41.387473005995
+          ],
+          [
+            -72.854158254473,
+            41.387830551067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Church Street",
+        "normalized_name": "CHURCH ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3700810"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.949416338575,
+            41.270939876651
+          ],
+          [
+            -72.949898889003,
+            41.270761933902
+          ],
+          [
+            -72.950380747448,
+            41.270583329997
+          ],
+          [
+            -72.950742141282,
+            41.270449377068
+          ],
+          [
+            -72.950862605893,
+            41.270404726092
+          ],
+          [
+            -72.951223861241,
+            41.270270366613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Church Street",
+        "normalized_name": "CHURCH ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3700801"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.951353933328,
+            41.270231084278
+          ],
+          [
+            -72.951731009021,
+            41.270142033194
+          ],
+          [
+            -72.95229662256,
+            41.270008456569
+          ],
+          [
+            -72.952860736218,
+            41.269865684198
+          ],
+          [
+            -72.952907374348,
+            41.269853428923
+          ],
+          [
+            -72.954428854406,
+            41.269303947548
+          ],
+          [
+            -72.95588866738,
+            41.268764402394
+          ],
+          [
+            -72.957476179752,
+            41.268708058145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Church Street",
+        "normalized_name": "CHURCH ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "637212539"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.861044840459,
+            41.38832555561
+          ],
+          [
+            -72.861093903208,
+            41.388106339101
+          ],
+          [
+            -72.861142965958,
+            41.387887122591
+          ],
+          [
+            -72.861192028708,
+            41.387667906082
+          ],
+          [
+            -72.861241091457,
+            41.387448689573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Church Street",
+        "normalized_name": "CHURCH ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "637212540"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.861269443015,
+            41.387340208461
+          ],
+          [
+            -72.861292077177,
+            41.387269353696
+          ],
+          [
+            -72.86131471134,
+            41.387198498932
+          ],
+          [
+            -72.861337345502,
+            41.387127644167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Church Street",
+        "normalized_name": "CHURCH ST",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3720060"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.861369155718,
+            41.387011891538
+          ],
+          [
+            -72.861391385929,
+            41.386904894341
+          ],
+          [
+            -72.86139344695,
+            41.386893215223
+          ],
+          [
+            -72.86140993512,
+            41.386799782279
+          ],
+          [
+            -72.861418179205,
+            41.386753065807
+          ],
+          [
+            -72.86142642329,
+            41.386706349334
+          ],
+          [
+            -72.861441979273,
+            41.386611122264
+          ],
+          [
+            -72.861443577437,
+            41.386599402402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Clintonville Road",
+        "normalized_name": "CLINTONVILLE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3720054"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.857250305366,
+            41.389564711199
+          ],
+          [
+            -72.856793570486,
+            41.389364507786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Clintonville Road",
+        "normalized_name": "CLINTONVILLE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "655673934"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.856662645719,
+            41.38933885555
+          ],
+          [
+            -72.856304400708,
+            41.389303337838
+          ],
+          [
+            -72.856063614502,
+            41.389287793995
+          ],
+          [
+            -72.855820715918,
+            41.389274562156
+          ],
+          [
+            -72.855456368041,
+            41.389254714396
+          ],
+          [
+            -72.855092020165,
+            41.389234866637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Clintonville Road",
+        "normalized_name": "CLINTONVILLE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721300"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.853761511335,
+            41.389203867744
+          ],
+          [
+            -72.853476682094,
+            41.389202657176
+          ],
+          [
+            -72.853193058015,
+            41.389199359211
+          ],
+          [
+            -72.852909433936,
+            41.389196061247
+          ],
+          [
+            -72.852623600873,
+            41.389188481875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Clintonville Road",
+        "normalized_name": "CLINTONVILLE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721322"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.852474511774,
+            41.389185867704
+          ],
+          [
+            -72.851981194816,
+            41.389071276312
+          ],
+          [
+            -72.852138159298,
+            41.389185867693
+          ],
+          [
+            -72.85196998306,
+            41.389185867687
+          ],
+          [
+            -72.851465454346,
+            41.38918586767
+          ],
+          [
+            -72.85112910187,
+            41.389185867658
+          ],
+          [
+            -72.850627005017,
+            41.389193126544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Clintonville Road",
+        "normalized_name": "CLINTONVILLE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "655675142"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.859584680905,
+            41.39082227352
+          ],
+          [
+            -72.85906868092,
+            41.390526951959
+          ],
+          [
+            -72.858781307385,
+            41.39034418716
+          ],
+          [
+            -72.858493933849,
+            41.39016142236
+          ],
+          [
+            -72.857987140147,
+            41.389842983149
+          ],
+          [
+            -72.85790082261,
+            41.389799737221
+          ],
+          [
+            -72.857463797123,
+            41.389540101134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Clintonville Road",
+        "normalized_name": "CLINTONVILLE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721298"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.854947367471,
+            41.389114561407
+          ],
+          [
+            -72.854603757544,
+            41.389106722384
+          ],
+          [
+            -72.854260147616,
+            41.389098883362
+          ],
+          [
+            -72.853916537688,
+            41.38909104434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Cody Lane",
+        "normalized_name": "CODY LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3753619"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.864371683736,
+            41.344292753192
+          ],
+          [
+            -72.864381403341,
+            41.344407111967
+          ],
+          [
+            -72.865229138662,
+            41.344367726399
+          ],
+          [
+            -72.86527912086,
+            41.344250925723
+          ],
+          [
+            -72.866159719708,
+            41.344341098933
+          ],
+          [
+            -72.866175814088,
+            41.344223592762
+          ],
+          [
+            -72.866250436716,
+            41.34421402576
+          ],
+          [
+            -72.866984701964,
+            41.344017948685
+          ],
+          [
+            -72.866878898776,
+            41.343933933122
+          ],
+          [
+            -72.86694054422,
+            41.343888880194
+          ],
+          [
+            -72.867800561712,
+            41.343806409238
+          ],
+          [
+            -72.867766168301,
+            41.343694758768
+          ],
+          [
+            -72.867839743751,
+            41.343681381414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Conhurst Drive",
+        "normalized_name": "CONHURST DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3753630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.839730947466,
+            41.34703465249
+          ],
+          [
+            -72.839578693097,
+            41.34704280781
+          ],
+          [
+            -72.839619050554,
+            41.347467438764
+          ],
+          [
+            -72.839774075286,
+            41.347488432508
+          ],
+          [
+            -72.83966307687,
+            41.347930672533
+          ],
+          [
+            -72.839817203106,
+            41.347942212527
+          ],
+          [
+            -72.839820797091,
+            41.347980027528
+          ],
+          [
+            -72.839847202951,
+            41.348393040793
+          ],
+          [
+            -72.839980891598,
+            41.348336789111
+          ],
+          [
+            -72.839994868637,
+            41.348347606043
+          ],
+          [
+            -72.840369411274,
+            41.348673958856
+          ],
+          [
+            -72.840458376293,
+            41.348580838531
+          ],
+          [
+            -72.84049961559,
+            41.348602720612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Davis Road",
+        "normalized_name": "DAVIS RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3756135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.887752063454,
+            41.391505887097
+          ],
+          [
+            -72.887668611786,
+            41.391601864585
+          ],
+          [
+            -72.888159506692,
+            41.391841884615
+          ],
+          [
+            -72.888276487098,
+            41.391762262424
+          ],
+          [
+            -72.888585601437,
+            41.392157249031
+          ],
+          [
+            -72.888730171581,
+            41.392115013657
+          ],
+          [
+            -72.888760515256,
+            41.392155477731
+          ],
+          [
+            -72.888735913216,
+            41.392590566982
+          ],
+          [
+            -72.888888720399,
+            41.392592489124
+          ],
+          [
+            -72.888890778754,
+            41.392631597914
+          ],
+          [
+            -72.888739995507,
+            41.393063322118
+          ],
+          [
+            -72.888892744442,
+            41.393064137525
+          ],
+          [
+            -72.88889274444,
+            41.393103276787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Eva Circle",
+        "normalized_name": "EVA CIR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749237"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.820371375872,
+            41.377311165393
+          ],
+          [
+            -72.820263936581,
+            41.37739260056
+          ],
+          [
+            -72.820417511758,
+            41.377509394353
+          ],
+          [
+            -72.820539037265,
+            41.377439068812
+          ],
+          [
+            -72.820583152093,
+            41.37764119422
+          ],
+          [
+            -72.820701297186,
+            41.377568178885
+          ],
+          [
+            -72.820714818846,
+            41.377578938058
+          ],
+          [
+            -72.820748792429,
+            41.377772994086
+          ],
+          [
+            -72.820863557107,
+            41.377697288958
+          ],
+          [
+            -72.820877078767,
+            41.377708048131
+          ],
+          [
+            -72.82098599554,
+            41.377866319076
+          ],
+          [
+            -72.821047158687,
+            41.377761319301
+          ],
+          [
+            -72.821065238743,
+            41.377767205832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Fawn Ridge Road",
+        "normalized_name": "FAWN RIDGE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749148"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.8308242042,
+            41.392231424981
+          ],
+          [
+            -72.830671771543,
+            41.392224071597
+          ],
+          [
+            -72.830643056204,
+            41.392565165769
+          ],
+          [
+            -72.830793674907,
+            41.39259538413
+          ],
+          [
+            -72.830613513372,
+            41.392937057661
+          ],
+          [
+            -72.83076473499,
+            41.392959686391
+          ],
+          [
+            -72.83076232333,
+            41.392990044913
+          ],
+          [
+            -72.830583970539,
+            41.393308949553
+          ],
+          [
+            -72.830735795073,
+            41.393323988652
+          ],
+          [
+            -72.830733383413,
+            41.393354347174
+          ],
+          [
+            -72.830556743482,
+            41.393681367497
+          ],
+          [
+            -72.830709243158,
+            41.393687961936
+          ],
+          [
+            -72.830707134046,
+            41.393718333134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Fieldstone Court",
+        "normalized_name": "FIELDSTONE CT",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "624474258"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.833700073542,
+            41.392244339237
+          ],
+          [
+            -72.83355705635,
+            41.392204094042
+          ],
+          [
+            -72.833202071871,
+            41.393091839273
+          ],
+          [
+            -72.833314881588,
+            41.393185725261
+          ],
+          [
+            -72.832920245047,
+            41.394059194874
+          ],
+          [
+            -72.833003211363,
+            41.394164725253
+          ],
+          [
+            -72.832918402332,
+            41.394235545169
+          ],
+          [
+            -72.832106115217,
+            41.39487659042
+          ],
+          [
+            -72.832215718419,
+            41.394959597487
+          ],
+          [
+            -72.832170635388,
+            41.395029455895
+          ],
+          [
+            -72.831542439022,
+            41.395619156296
+          ],
+          [
+            -72.831563797777,
+            41.395732635532
+          ],
+          [
+            -72.831440273529,
+            41.395737865721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Great Meadow Lane",
+        "normalized_name": "GREAT MEADOW LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "653163273"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.842466547104,
+            41.356059000935
+          ],
+          [
+            -72.842538682415,
+            41.355958009161
+          ],
+          [
+            -72.841718929968,
+            41.355736985638
+          ],
+          [
+            -72.841386845147,
+            41.35492128418
+          ],
+          [
+            -72.841505939781,
+            41.354280339846
+          ],
+          [
+            -72.842158502881,
+            41.353866464925
+          ],
+          [
+            -72.841846702679,
+            41.35392107162
+          ],
+          [
+            -72.842057131082,
+            41.353780786013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Great Meadow Lane",
+        "normalized_name": "GREAT MEADOW LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749343"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.842170298085,
+            41.353704652141
+          ],
+          [
+            -72.842459019946,
+            41.353508639127
+          ],
+          [
+            -72.842615776626,
+            41.353556723301
+          ],
+          [
+            -72.842491100152,
+            41.353486859903
+          ],
+          [
+            -72.842769224655,
+            41.353321847124
+          ],
+          [
+            -72.843011394201,
+            41.353333519411
+          ],
+          [
+            -72.842910416646,
+            41.353246783025
+          ],
+          [
+            -72.843090172721,
+            41.353187221142
+          ],
+          [
+            -72.843462050943,
+            41.353237230191
+          ],
+          [
+            -72.843432813675,
+            41.353124756551
+          ],
+          [
+            -72.843475331075,
+            41.353118789198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Heritage Hill",
+        "normalized_name": "HERITAGE HL",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721496"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.829880117249,
+            41.403222374879
+          ],
+          [
+            -72.829889153741,
+            41.403107984147
+          ],
+          [
+            -72.829689168565,
+            41.403101236188
+          ],
+          [
+            -72.829672616696,
+            41.403215604691
+          ],
+          [
+            -72.829474071714,
+            41.40309804956
+          ],
+          [
+            -72.829461909577,
+            41.403212483097
+          ],
+          [
+            -72.829444350651,
+            41.403212222964
+          ],
+          [
+            -72.829258974864,
+            41.403094862933
+          ],
+          [
+            -72.829251202458,
+            41.403209361502
+          ],
+          [
+            -72.829233643532,
+            41.403209101369
+          ],
+          [
+            -72.829047056716,
+            41.403088557575
+          ],
+          [
+            -72.829037654986,
+            41.403202932074
+          ],
+          [
+            -72.829020123387,
+            41.403202152892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "High Lane",
+        "normalized_name": "HIGH LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "649723919"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.896991703966,
+            41.381457113272
+          ],
+          [
+            -72.896673502325,
+            41.381122444972
+          ],
+          [
+            -72.896806240462,
+            41.38081909763
+          ],
+          [
+            -72.896832677392,
+            41.38079100839
+          ],
+          [
+            -72.89712348363,
+            41.380482026753
+          ],
+          [
+            -72.897149920561,
+            41.380453937513
+          ],
+          [
+            -72.897408029049,
+            41.380118728812
+          ],
+          [
+            -72.897426932559,
+            41.380087402994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "High Lane",
+        "normalized_name": "HIGH LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "658273478"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.902218683521,
+            41.365103499937
+          ],
+          [
+            -72.901651076518,
+            41.364996137952
+          ],
+          [
+            -72.901598867397,
+            41.364987436428
+          ],
+          [
+            -72.901024777507,
+            41.364892532932
+          ],
+          [
+            -72.900972502902,
+            41.364884055966
+          ],
+          [
+            -72.90039724632,
+            41.364794397181
+          ],
+          [
+            -72.900344862694,
+            41.36478630853
+          ],
+          [
+            -72.899768642806,
+            41.364697333368
+          ],
+          [
+            -72.89971625918,
+            41.364689244717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "High Meadow Road",
+        "normalized_name": "HIGH MEADOW RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712161"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.888905195328,
+            41.382062247345
+          ],
+          [
+            -72.888758180395,
+            41.382031210005
+          ],
+          [
+            -72.888610147963,
+            41.382425030327
+          ],
+          [
+            -72.888746662727,
+            41.382483592109
+          ],
+          [
+            -72.888446292165,
+            41.382854445504
+          ],
+          [
+            -72.888586150924,
+            41.382904243711
+          ],
+          [
+            -72.888572774941,
+            41.382939298011
+          ],
+          [
+            -72.88824174634,
+            41.383175303627
+          ],
+          [
+            -72.888222337749,
+            41.383289394122
+          ],
+          [
+            -72.888173781374,
+            41.383287900078
+          ],
+          [
+            -72.887623514944,
+            41.383275218051
+          ],
+          [
+            -72.887773436854,
+            41.38329709083
+          ],
+          [
+            -72.887767866524,
+            41.38330740111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Hitching Post Circle",
+        "normalized_name": "HITCHING POST CIR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "641630740"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.836602766805,
+            41.345571152583
+          ],
+          [
+            -72.836510630631,
+            41.345664901627
+          ],
+          [
+            -72.836776801933,
+            41.345824777683
+          ],
+          [
+            -72.836830259264,
+            41.345717443681
+          ],
+          [
+            -72.83711317166,
+            41.345902933074
+          ],
+          [
+            -72.837132381412,
+            41.345789252783
+          ],
+          [
+            -72.837160169563,
+            41.345791899275
+          ],
+          [
+            -72.837471437572,
+            41.345899811073
+          ],
+          [
+            -72.837436509751,
+            41.345788260151
+          ],
+          [
+            -72.837463777407,
+            41.345783448212
+          ],
+          [
+            -72.837777761062,
+            41.345737121992
+          ],
+          [
+            -72.8376643556,
+            41.345660422873
+          ],
+          [
+            -72.837683104009,
+            41.345644799198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Jersey Drive",
+        "normalized_name": "JERSEY DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3753629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.841583998686,
+            41.343524857546
+          ],
+          [
+            -72.841615412121,
+            41.343412719392
+          ],
+          [
+            -72.841309745965,
+            41.343366705307
+          ],
+          [
+            -72.841269948209,
+            41.343478447913
+          ],
+          [
+            -72.840979005695,
+            41.343335576795
+          ],
+          [
+            -72.84094595774,
+            41.343447954678
+          ],
+          [
+            -72.840928283678,
+            41.343447876172
+          ],
+          [
+            -72.840626406097,
+            41.343335426986
+          ],
+          [
+            -72.840639253468,
+            41.343449745712
+          ],
+          [
+            -72.840612281145,
+            41.343452442943
+          ],
+          [
+            -72.840295995141,
+            41.343368468075
+          ],
+          [
+            -72.840315585592,
+            41.343482112492
+          ],
+          [
+            -72.840288613269,
+            41.343484809724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Knight Lane",
+        "normalized_name": "KNIGHT LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749235"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.820559777535,
+            41.375493080627
+          ],
+          [
+            -72.820441056356,
+            41.375565154172
+          ],
+          [
+            -72.82097635107,
+            41.375981613095
+          ],
+          [
+            -72.821179645079,
+            41.376549941079
+          ],
+          [
+            -72.820899894737,
+            41.376900814043
+          ],
+          [
+            -72.82037135437,
+            41.377309921616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Knight Lane",
+        "normalized_name": "KNIGHT LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749236"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.820155480374,
+            41.377308626316
+          ],
+          [
+            -72.820259465852,
+            41.37739254799
+          ],
+          [
+            -72.820049753552,
+            41.377539982154
+          ],
+          [
+            -72.819874909963,
+            41.377506585107
+          ],
+          [
+            -72.819980116302,
+            41.377589645931
+          ],
+          [
+            -72.819817629387,
+            41.377705528076
+          ],
+          [
+            -72.819596360966,
+            41.377705240214
+          ],
+          [
+            -72.819701567305,
+            41.377788301037
+          ],
+          [
+            -72.819608717639,
+            41.377854519406
+          ],
+          [
+            -72.819319077933,
+            41.377906624038
+          ],
+          [
+            -72.819426615528,
+            41.377987986805
+          ],
+          [
+            -72.819403877511,
+            41.378004908121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Lexington Gardens",
+        "normalized_name": "LEXINGTON GARDENS",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "649722311"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.843031801291,
+            41.356341214362
+          ],
+          [
+            -72.842947776681,
+            41.356437801618
+          ],
+          [
+            -72.842817554757,
+            41.356806115812
+          ],
+          [
+            -72.842942265829,
+            41.357052358461
+          ],
+          [
+            -72.843597820503,
+            41.357207240822
+          ],
+          [
+            -72.843876073362,
+            41.357070568148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Lexington Gardens",
+        "normalized_name": "LEXINGTON GARDENS",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "648698360"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.843979869144,
+            41.357103717976
+          ],
+          [
+            -72.844130519597,
+            41.357289855093
+          ],
+          [
+            -72.844010264796,
+            41.357537653674
+          ],
+          [
+            -72.84396080892,
+            41.357558085276
+          ],
+          [
+            -72.8434689595,
+            41.357629671439
+          ],
+          [
+            -72.843127363751,
+            41.357652282097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Lexington Gardens",
+        "normalized_name": "LEXINGTON GARDENS",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "648698358"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.843986706908,
+            41.356980836868
+          ],
+          [
+            -72.844353874783,
+            41.356545662678
+          ],
+          [
+            -72.844349176861,
+            41.355784184021
+          ],
+          [
+            -72.844196130644,
+            41.355708648727
+          ],
+          [
+            -72.843991658824,
+            41.35567468775
+          ],
+          [
+            -72.843647321171,
+            41.35573658326
+          ],
+          [
+            -72.843199641312,
+            41.356138888648
+          ],
+          [
+            -72.843823102779,
+            41.355807875293
+          ],
+          [
+            -72.843638545051,
+            41.355877998092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Longview Drive",
+        "normalized_name": "LONGVIEW DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749265"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.822550237314,
+            41.370111862666
+          ],
+          [
+            -72.822558052839,
+            41.369997421515
+          ],
+          [
+            -72.821817139617,
+            41.369926123102
+          ],
+          [
+            -72.821698860269,
+            41.370009228632
+          ],
+          [
+            -72.821068667545,
+            41.369615982458
+          ],
+          [
+            -72.82095733025,
+            41.369699079563
+          ],
+          [
+            -72.820897489552,
+            41.36967137553
+          ],
+          [
+            -72.82025274998,
+            41.369378658459
+          ],
+          [
+            -72.820190898722,
+            41.369484397943
+          ],
+          [
+            -72.820123514905,
+            41.369469330749
+          ],
+          [
+            -72.819376516908,
+            41.369352279024
+          ],
+          [
+            -72.819375052085,
+            41.369466870399
+          ],
+          [
+            -72.81930474091,
+            41.369466870397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Lorraine Drive",
+        "normalized_name": "LORRAINE DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3754523"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.904137286806,
+            41.370299000181
+          ],
+          [
+            -72.903985019007,
+            41.370290424729
+          ],
+          [
+            -72.903969332598,
+            41.370447288748
+          ],
+          [
+            -72.904120523594,
+            41.370466632231
+          ],
+          [
+            -72.903907471307,
+            41.370598638525
+          ],
+          [
+            -72.904050256498,
+            41.370639900763
+          ],
+          [
+            -72.904044668935,
+            41.370653267088
+          ],
+          [
+            -72.903839023669,
+            41.370762376006
+          ],
+          [
+            -72.903983205751,
+            41.370800296663
+          ],
+          [
+            -72.903977618188,
+            41.370813662988
+          ],
+          [
+            -72.903770576031,
+            41.370926113488
+          ],
+          [
+            -72.903916155004,
+            41.370960692564
+          ],
+          [
+            -72.903910567441,
+            41.370974058889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Mallard Lane",
+        "normalized_name": "MALLARD LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3754526"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.864180898754,
+            41.343472379928
+          ],
+          [
+            -72.864224219613,
+            41.343582258887
+          ],
+          [
+            -72.864757535537,
+            41.34345698907
+          ],
+          [
+            -72.864752588504,
+            41.343338881532
+          ],
+          [
+            -72.865123114941,
+            41.343088877177
+          ],
+          [
+            -72.864976543196,
+            41.3430514337
+          ],
+          [
+            -72.864985851875,
+            41.343012353051
+          ],
+          [
+            -72.865277609615,
+            41.342701084974
+          ],
+          [
+            -72.865219661312,
+            41.34259459031
+          ],
+          [
+            -72.865263961706,
+            41.34257744177
+          ],
+          [
+            -72.865836882742,
+            41.342487870782
+          ],
+          [
+            -72.865736315282,
+            41.342401667498
+          ],
+          [
+            -72.865773584675,
+            41.342376821235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Maple Avenue",
+        "normalized_name": "MAPLE AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3720074"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.859997877049,
+            41.385614737593
+          ],
+          [
+            -72.859785535064,
+            41.385332146785
+          ],
+          [
+            -72.859625900206,
+            41.385120267741
+          ],
+          [
+            -72.859413053727,
+            41.384837762349
+          ],
+          [
+            -72.859572618347,
+            41.384816685431
+          ],
+          [
+            -72.859359833821,
+            41.384767011898
+          ],
+          [
+            -72.859253777957,
+            41.384625604045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Maple Avenue",
+        "normalized_name": "MAPLE AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "655675529"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.858472380402,
+            41.38366173892
+          ],
+          [
+            -72.858282086146,
+            41.383136556084
+          ],
+          [
+            -72.858170965601,
+            41.383226026877
+          ],
+          [
+            -72.857994855969,
+            41.382871839305
+          ],
+          [
+            -72.857788668634,
+            41.3819018991
+          ],
+          [
+            -72.857807668187,
+            41.381069541822
+          ],
+          [
+            -72.857769156898,
+            41.381780720889
+          ],
+          [
+            -72.857650898554,
+            41.381054515047
+          ],
+          [
+            -72.857949950423,
+            41.381948955932
+          ],
+          [
+            -72.857503435588,
+            41.380333178483
+          ],
+          [
+            -72.857475028498,
+            41.380212994597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Maple Avenue",
+        "normalized_name": "MAPLE AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "658268957"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.861404483333,
+            41.386458542154
+          ],
+          [
+            -72.861100006268,
+            41.386168663418
+          ],
+          [
+            -72.860718960291,
+            41.385983313327
+          ],
+          [
+            -72.860534459795,
+            41.385880865317
+          ],
+          [
+            -72.860209386485,
+            41.385644292764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Maraldene Drive",
+        "normalized_name": "MARALDENE DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702604"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.902353267122,
+            41.366797555757
+          ],
+          [
+            -72.902343117156,
+            41.366683217842
+          ],
+          [
+            -72.902176365003,
+            41.366689410878
+          ],
+          [
+            -72.902168091596,
+            41.36680417004
+          ],
+          [
+            -72.901990559181,
+            41.366692533659
+          ],
+          [
+            -72.90198607773,
+            41.366807229091
+          ],
+          [
+            -72.901970909907,
+            41.366807484011
+          ],
+          [
+            -72.901804753359,
+            41.36669565644
+          ],
+          [
+            -72.901804063863,
+            41.366810288141
+          ],
+          [
+            -72.901788896041,
+            41.366810543062
+          ],
+          [
+            -72.90164135441,
+            41.36668930837
+          ],
+          [
+            -72.9016029186,
+            41.366800209903
+          ],
+          [
+            -72.901588227658,
+            41.366797366494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Marlborough Road",
+        "normalized_name": "MARLBOROUGH RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712174"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.894266077532,
+            41.376138287102
+          ],
+          [
+            -72.894321276827,
+            41.376031444001
+          ],
+          [
+            -72.893399623766,
+            41.375886227758
+          ],
+          [
+            -72.89294066712,
+            41.376335660236
+          ],
+          [
+            -72.892535276853,
+            41.376963689388
+          ],
+          [
+            -72.892173549153,
+            41.377353625861
+          ],
+          [
+            -72.892204584879,
+            41.377611730884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Marlborough Road",
+        "normalized_name": "MARLBOROUGH RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712183"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.892253658378,
+            41.377734862154
+          ],
+          [
+            -72.891968421507,
+            41.37838643358
+          ],
+          [
+            -72.891782096559,
+            41.378442746236
+          ],
+          [
+            -72.891903766022,
+            41.378530809903
+          ],
+          [
+            -72.891677471824,
+            41.379036127034
+          ],
+          [
+            -72.891383079851,
+            41.379333754401
+          ],
+          [
+            -72.891515833112,
+            41.379397067841
+          ],
+          [
+            -72.891386522142,
+            41.379685820487
+          ],
+          [
+            -72.890984063144,
+            41.380224762566
+          ],
+          [
+            -72.891127900202,
+            41.38026332578
+          ],
+          [
+            -72.891095572459,
+            41.380335513941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "North Drive",
+        "normalized_name": "N DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721337"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.855867243351,
+            41.384775311891
+          ],
+          [
+            -72.855842762835,
+            41.384662201514
+          ],
+          [
+            -72.854530667657,
+            41.384938154157
+          ],
+          [
+            -72.853877934971,
+            41.38490158715
+          ],
+          [
+            -72.853575970733,
+            41.385054470062
+          ],
+          [
+            -72.853003152578,
+            41.385124259604
+          ],
+          [
+            -72.851666576884,
+            41.385287101871
+          ],
+          [
+            -72.851734486392,
+            41.385162735117
+          ],
+          [
+            -72.851284698114,
+            41.385333628233
+          ],
+          [
+            -72.85033000119,
+            41.385449944137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "North Drive",
+        "normalized_name": "N DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721341"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.850163117467,
+            41.385421844864
+          ],
+          [
+            -72.849680195674,
+            41.385469456862
+          ],
+          [
+            -72.850059804882,
+            41.385316454054
+          ],
+          [
+            -72.84958447041,
+            41.38547902765
+          ],
+          [
+            -72.849198715884,
+            41.385520312408
+          ],
+          [
+            -72.848812961358,
+            41.385561597165
+          ],
+          [
+            -72.849726149825,
+            41.385349349616
+          ],
+          [
+            -72.848427206832,
+            41.385602881922
+          ],
+          [
+            -72.848330768201,
+            41.385613203112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "North Hill Road",
+        "normalized_name": "N HL RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3704973"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.835276416103,
+            41.367865915799
+          ],
+          [
+            -72.835413536263,
+            41.367916329204
+          ],
+          [
+            -72.836427150178,
+            41.366148036609
+          ],
+          [
+            -72.836827502942,
+            41.365654756956
+          ],
+          [
+            -72.836896614523,
+            41.365243704371
+          ],
+          [
+            -72.837458389192,
+            41.364373173164
+          ],
+          [
+            -72.838343659465,
+            41.363175515096
+          ],
+          [
+            -72.838359000538,
+            41.362605071459
+          ],
+          [
+            -72.838381978858,
+            41.360678000378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "North Hill Road",
+        "normalized_name": "N HL RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "650757710"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.83851715293,
+            41.360551749265
+          ],
+          [
+            -72.838366016265,
+            41.360567966899
+          ],
+          [
+            -72.838331131645,
+            41.359964143299
+          ],
+          [
+            -72.838324383744,
+            41.359365668822
+          ],
+          [
+            -72.838322582772,
+            41.359066704344
+          ],
+          [
+            -72.838297828924,
+            41.358470883171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "North Hill Road",
+        "normalized_name": "N HL RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "650757711"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.83829270541,
+            41.358356100822
+          ],
+          [
+            -72.838274822618,
+            41.358064007455
+          ],
+          [
+            -72.838225361105,
+            41.3574766515
+          ],
+          [
+            -72.838377724754,
+            41.357469422856
+          ],
+          [
+            -72.838218320728,
+            41.357177937443
+          ],
+          [
+            -72.838226063025,
+            41.356883730777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Old Broadway",
+        "normalized_name": "OLD BROADWY",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "641491727"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.866155449346,
+            41.388883309607
+          ],
+          [
+            -72.867073999689,
+            41.388665213315
+          ],
+          [
+            -72.867957661742,
+            41.388180450132
+          ],
+          [
+            -72.868049849048,
+            41.387440352848
+          ],
+          [
+            -72.868764292999,
+            41.386860533448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Old Tavern Lane",
+        "normalized_name": "OLD TAVERN LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702432"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.822859767393,
+            41.372529134528
+          ],
+          [
+            -72.82289479101,
+            41.372518883713
+          ],
+          [
+            -72.823284912957,
+            41.372449816279
+          ],
+          [
+            -72.823651811473,
+            41.372388346376
+          ],
+          [
+            -72.823725191176,
+            41.372376052395
+          ],
+          [
+            -72.824166720063,
+            41.372298165389
+          ],
+          [
+            -72.82444855446,
+            41.372267018927
+          ],
+          [
+            -72.824548465079,
+            41.372297215418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Pond View Circle",
+        "normalized_name": "POND VIEW CIR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "652066182"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.852374365601,
+            41.350041199738
+          ],
+          [
+            -72.852604415647,
+            41.350115112702
+          ],
+          [
+            -72.852805334767,
+            41.350150133307
+          ],
+          [
+            -72.853122992814,
+            41.350214428136
+          ],
+          [
+            -72.853132517892,
+            41.350284554102
+          ],
+          [
+            -72.853105823098,
+            41.350486505958
+          ],
+          [
+            -72.853059107208,
+            41.350839921706
+          ],
+          [
+            -72.852451905072,
+            41.350927252703
+          ],
+          [
+            -72.852674017209,
+            41.350327016919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Quinnipiac Avenue",
+        "normalized_name": "QUINNIPIAC AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3703350"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.866101753857,
+            41.336036764701
+          ],
+          [
+            -72.864617197026,
+            41.338271791032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Quinnipiac Avenue",
+        "normalized_name": "QUINNIPIAC AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3703237"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.863438892315,
+            41.347327275583
+          ],
+          [
+            -72.863419712369,
+            41.347359470493
+          ],
+          [
+            -72.863266272801,
+            41.347617029769
+          ],
+          [
+            -72.863112833234,
+            41.347874589045
+          ],
+          [
+            -72.862944181338,
+            41.348162790858
+          ],
+          [
+            -72.862806372488,
+            41.348425283904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Quinnipiac Avenue",
+        "normalized_name": "QUINNIPIAC AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3704860"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.858785228787,
+            41.356887302713
+          ],
+          [
+            -72.858189216516,
+            41.357504033
+          ],
+          [
+            -72.857558499239,
+            41.358106509227
+          ],
+          [
+            -72.856941030746,
+            41.358720548524
+          ],
+          [
+            -72.856357037527,
+            41.359348793597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Quinnipiac Avenue",
+        "normalized_name": "QUINNIPIAC AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3704849"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.853094648737,
+            41.364499329346
+          ],
+          [
+            -72.853070714656,
+            41.364631653463
+          ],
+          [
+            -72.853048149904,
+            41.364766717829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Ridge Road",
+        "normalized_name": "RIDGE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3698026"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.978148102381,
+            41.278021414649
+          ],
+          [
+            -72.978095440122,
+            41.278080659692
+          ],
+          [
+            -72.977990681612,
+            41.278200338183
+          ],
+          [
+            -72.97780024935,
+            41.278451150391
+          ],
+          [
+            -72.977688033136,
+            41.278657122241
+          ],
+          [
+            -72.977594474478,
+            41.278859809503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Ridge Road",
+        "normalized_name": "RIDGE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3748973"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.899152525325,
+            41.366077891313
+          ],
+          [
+            -72.898954405396,
+            41.366625183908
+          ],
+          [
+            -72.898756285467,
+            41.367172476503
+          ],
+          [
+            -72.89857617644,
+            41.367670015226
+          ],
+          [
+            -72.898450100122,
+            41.368018292332
+          ],
+          [
+            -72.898378056511,
+            41.368217307821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Ridge Road",
+        "normalized_name": "RIDGE RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702334"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.89672733622,
+            41.371439697823
+          ],
+          [
+            -72.89669515661,
+            41.371551253795
+          ],
+          [
+            -72.896596268531,
+            41.371776003739
+          ],
+          [
+            -72.896431367294,
+            41.372095280599
+          ],
+          [
+            -72.896266466058,
+            41.372414557459
+          ],
+          [
+            -72.89610164157,
+            41.372733842186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Ridgecrest Lane",
+        "normalized_name": "RIDGECREST LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3748974"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.899008216559,
+            41.36605158836
+          ],
+          [
+            -72.898934600213,
+            41.366039742047
+          ],
+          [
+            -72.898889927209,
+            41.365915357449
+          ],
+          [
+            -72.898814777189,
+            41.365903264338
+          ],
+          [
+            -72.89866924933,
+            41.365995439166
+          ],
+          [
+            -72.898562103364,
+            41.365968652667
+          ],
+          [
+            -72.89811364252,
+            41.365893873766
+          ],
+          [
+            -72.897893390076,
+            41.366096326068
+          ],
+          [
+            -72.89777153276,
+            41.366404006647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Round Hill Road",
+        "normalized_name": "ROUND HL RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712170"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.895796383621,
+            41.378161476961
+          ],
+          [
+            -72.895640406163,
+            41.378590332992
+          ],
+          [
+            -72.89555400077,
+            41.378660994366
+          ],
+          [
+            -72.895154651563,
+            41.378685707682
+          ],
+          [
+            -72.895270962564,
+            41.37879987117
+          ],
+          [
+            -72.89486026452,
+            41.378631876061
+          ],
+          [
+            -72.894718248287,
+            41.378525679315
+          ],
+          [
+            -72.894673658311,
+            41.378172986693
+          ],
+          [
+            -72.894830398976,
+            41.378176121209
+          ],
+          [
+            -72.894846968662,
+            41.378128483365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Round Hill Road",
+        "normalized_name": "ROUND HL RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712171"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.894888502516,
+            41.378021668937
+          ],
+          [
+            -72.894903937024,
+            41.377632142702
+          ],
+          [
+            -72.895045861997,
+            41.37767444861
+          ],
+          [
+            -72.895138277809,
+            41.377503314835
+          ],
+          [
+            -72.895582760438,
+            41.377254527389
+          ],
+          [
+            -72.896054042011,
+            41.377534961775
+          ],
+          [
+            -72.895841486394,
+            41.378049324693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Round Hill Road",
+        "normalized_name": "ROUND HL RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712097"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.895936452223,
+            41.378194854868
+          ],
+          [
+            -72.896215723381,
+            41.378268740521
+          ],
+          [
+            -72.896494796986,
+            41.378340759536
+          ],
+          [
+            -72.896680846057,
+            41.378388772212
+          ],
+          [
+            -72.896958209351,
+            41.378462154966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Summer Lane",
+        "normalized_name": "SUMMER LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "653172649"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.839719624957,
+            41.346920054587
+          ],
+          [
+            -72.839731343209,
+            41.347034307746
+          ],
+          [
+            -72.840782071907,
+            41.346780227598
+          ],
+          [
+            -72.841151775058,
+            41.34627592774
+          ],
+          [
+            -72.841348482016,
+            41.345435452668
+          ],
+          [
+            -72.841498819209,
+            41.345455282886
+          ],
+          [
+            -72.841397658756,
+            41.3452253339
+          ],
+          [
+            -72.841496012235,
+            41.344805096364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Summer Lane",
+        "normalized_name": "SUMMER LA",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "658268986"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.841613459415,
+            41.343413698786
+          ],
+          [
+            -72.842106659967,
+            41.34288275247
+          ],
+          [
+            -72.842279081927,
+            41.342341231412
+          ],
+          [
+            -72.842207417134,
+            41.341781050611
+          ],
+          [
+            -72.841254044614,
+            41.340834704423
+          ],
+          [
+            -72.840802706024,
+            41.341125471272
+          ],
+          [
+            -72.840568196726,
+            41.341214808149
+          ],
+          [
+            -72.838305978123,
+            41.341766424127
+          ],
+          [
+            -72.838125369996,
+            41.341687482251
+          ],
+          [
+            -72.83791566945,
+            41.341953421371
+          ],
+          [
+            -72.837618582639,
+            41.343266140151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Universal Drive",
+        "normalized_name": "UNIVERSAL DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "618983139"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.868284653373,
+            41.350735440517
+          ],
+          [
+            -72.868629060029,
+            41.350559317347
+          ],
+          [
+            -72.868793036959,
+            41.350160057669
+          ],
+          [
+            -72.86880384131,
+            41.350125586645
+          ],
+          [
+            -72.868922689179,
+            41.349746405377
+          ],
+          [
+            -72.868933493531,
+            41.349711934353
+          ],
+          [
+            -72.868983307271,
+            41.349352804779
+          ],
+          [
+            -72.868972690699,
+            41.34931830091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Universal Drive",
+        "normalized_name": "UNIVERSAL DR",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "604739099"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.868831513202,
+            41.34850980461
+          ],
+          [
+            -72.868714205615,
+            41.347910609038
+          ],
+          [
+            -72.868723564073,
+            41.347852586613
+          ],
+          [
+            -72.868883570875,
+            41.347225807585
+          ],
+          [
+            -72.868898971748,
+            41.347168516344
+          ],
+          [
+            -72.869067604305,
+            41.346538022802
+          ],
+          [
+            -72.869084423669,
+            41.346482733374
+          ],
+          [
+            -72.869276646286,
+            41.345856230079
+          ],
+          [
+            -72.869294121069,
+            41.345799275234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Warner Road",
+        "normalized_name": "WARNER RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "655674752"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.823199098559,
+            41.373157322007
+          ],
+          [
+            -72.823071514848,
+            41.373015805755
+          ],
+          [
+            -72.822949578449,
+            41.372872458696
+          ],
+          [
+            -72.822830135106,
+            41.372729126652
+          ],
+          [
+            -72.822719155145,
+            41.37257130435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Warner Road",
+        "normalized_name": "WARNER RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702433"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.822827982718,
+            41.372433085431
+          ],
+          [
+            -72.822676289324,
+            41.372446227786
+          ],
+          [
+            -72.822664146174,
+            41.37189337974
+          ],
+          [
+            -72.822793607566,
+            41.371218165121
+          ],
+          [
+            -72.822655087232,
+            41.371482706572
+          ],
+          [
+            -72.822640198806,
+            41.371211278449
+          ],
+          [
+            -72.822593856832,
+            41.370665876855
+          ],
+          [
+            -72.822557291583,
+            41.37011720735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Warner Road",
+        "normalized_name": "WARNER RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3749264"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.822550464624,
+            41.370003098282
+          ],
+          [
+            -72.822694592922,
+            41.369866694406
+          ],
+          [
+            -72.822540460126,
+            41.369847027953
+          ],
+          [
+            -72.822556878725,
+            41.368904472977
+          ],
+          [
+            -72.822710818812,
+            41.368291644061
+          ],
+          [
+            -72.82250359234,
+            41.367984891508
+          ],
+          [
+            -72.822338079289,
+            41.366887124568
+          ],
+          [
+            -72.822505417959,
+            41.366744914038
+          ],
+          [
+            -72.822416625882,
+            41.366112625608
+          ],
+          [
+            -72.822418401404,
+            41.365956380476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Washington Avenue",
+        "normalized_name": "WASHINGTON AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "637212485"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.860700990456,
+            41.389131500911
+          ],
+          [
+            -72.860560006128,
+            41.389087415417
+          ],
+          [
+            -72.860524969409,
+            41.389433394688
+          ],
+          [
+            -72.860348808247,
+            41.389734043073
+          ],
+          [
+            -72.860216687375,
+            41.389959529362
+          ],
+          [
+            -72.860076860597,
+            41.389913414815
+          ],
+          [
+            -72.860172647085,
+            41.390034691458
+          ],
+          [
+            -72.860040526214,
+            41.390260177747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Washington Avenue",
+        "normalized_name": "WASHINGTON AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "604743163"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.859980992071,
+            41.390364500447
+          ],
+          [
+            -72.859901687673,
+            41.390508225222
+          ],
+          [
+            -72.859843083125,
+            41.390616752163
+          ],
+          [
+            -72.859778434095,
+            41.390431284048
+          ],
+          [
+            -72.859823548275,
+            41.39065292781
+          ],
+          [
+            -72.859764943727,
+            41.390761454752
+          ],
+          [
+            -72.859706339179,
+            41.390869981693
+          ],
+          [
+            -72.859675876136,
+            41.390621206196
+          ],
+          [
+            -72.859573318176,
+            41.390811128343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Washington Avenue",
+        "normalized_name": "WASHINGTON AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3720047"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.859646981789,
+            41.390976808028
+          ],
+          [
+            -72.859506987417,
+            41.391221798181
+          ],
+          [
+            -72.859231686417,
+            41.391712358568
+          ],
+          [
+            -72.858798816803,
+            41.392445117576
+          ],
+          [
+            -72.858466944294,
+            41.392920860557
+          ],
+          [
+            -72.85789900615,
+            41.393602640014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Washington Avenue",
+        "normalized_name": "WASHINGTON AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3721278"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.857809564352,
+            41.393699684935
+          ],
+          [
+            -72.857715193938,
+            41.393795771179
+          ],
+          [
+            -72.857525115738,
+            41.393987813694
+          ],
+          [
+            -72.857238699487,
+            41.394274229955
+          ],
+          [
+            -72.856937959766,
+            41.394555299371
+          ],
+          [
+            -72.856640671716,
+            41.394834221252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "West View Road",
+        "normalized_name": "W VIEW RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3712135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.889606735585,
+            41.386233520321
+          ],
+          [
+            -72.889590917055,
+            41.38634749549
+          ],
+          [
+            -72.890341324142,
+            41.386401904133
+          ],
+          [
+            -72.890405213338,
+            41.386290843415
+          ],
+          [
+            -72.891179997518,
+            41.386348752827
+          ],
+          [
+            -72.891158976567,
+            41.386232272444
+          ],
+          [
+            -72.891221691686,
+            41.386214606214
+          ],
+          [
+            -72.891947522591,
+            41.386130125422
+          ],
+          [
+            -72.8919101225,
+            41.386018192101
+          ],
+          [
+            -72.89197244585,
+            41.386000324723
+          ],
+          [
+            -72.892713709132,
+            41.38590905593
+          ],
+          [
+            -72.892660149949,
+            41.385801736375
+          ],
+          [
+            -72.892722668504,
+            41.385783682889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Whitney Avenue",
+        "normalized_name": "WHITNEY AV",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "3702305"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.902570502998,
+            41.374945506524
+          ],
+          [
+            -72.902527657117,
+            41.375055494862
+          ],
+          [
+            -72.901761547276,
+            41.374887384575
+          ],
+          [
+            -72.901751888652,
+            41.374765856735
+          ],
+          [
+            -72.900924592964,
+            41.374710466841
+          ],
+          [
+            -72.900929600477,
+            41.374592616441
+          ],
+          [
+            -72.900861091839,
+            41.374578404538
+          ],
+          [
+            -72.900085362138,
+            41.374536371032
+          ],
+          [
+            -72.900107496811,
+            41.374422073607
+          ],
+          [
+            -72.900038988172,
+            41.374407861704
+          ],
+          [
+            -72.899247375407,
+            41.374355923129
+          ],
+          [
+            -72.899288799225,
+            41.374245622941
+          ],
+          [
+            -72.899220576251,
+            41.374230657897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "display_name": "Winding Brook Road",
+        "normalized_name": "WINDING BROOK RD",
+        "road_source": "Census geocoder fallback",
+        "geometry_quality": "approximate",
+        "tiger_line_id": "650758032"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.826017370486,
+            41.380024425611
+          ],
+          [
+            -72.826050515071,
+            41.379976023994
+          ],
+          [
+            -72.826149948826,
+            41.379830819142
+          ],
+          [
+            -72.826395135098,
+            41.379547320568
+          ],
+          [
+            -72.826656232672,
+            41.379412905617
+          ],
+          [
+            -72.826921740449,
+            41.379325214974
+          ]
+        ]
+      }
+    }
+  ],
+  "unresolved_official_streets": [
+    "Avalon Haven Drive",
+    "Daniel Drive",
+    "Dixwell Avenue",
+    "Edith Way",
+    "Hartford Turnpike",
+    "Lombard Circle",
+    "Middletown Avenue",
+    "Mulholland Way",
+    "Newbury Court",
+    "Santora Drive",
+    "Squires Lane"
+  ]
+}
