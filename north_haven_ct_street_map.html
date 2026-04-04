@@ -271,6 +271,40 @@
         gap: 8px;
       }
 
+      .catalog-list {
+        max-height: 340px;
+        overflow-y: auto;
+        padding-right: 4px;
+      }
+
+      .catalog-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        width: 100%;
+        padding: 10px 12px;
+        border-radius: 14px;
+        border: 1px solid rgba(21, 50, 74, 0.08);
+        background: rgba(255, 255, 255, 0.78);
+        color: var(--ink);
+        text-align: left;
+      }
+
+      .catalog-item:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 10px 20px rgba(36, 42, 49, 0.06);
+      }
+
+      .catalog-name {
+        font-weight: 600;
+      }
+
+      .catalog-note {
+        font-size: 0.82rem;
+        color: var(--muted);
+      }
+
       .map-shell {
         position: relative;
         min-height: 100vh;
@@ -393,6 +427,17 @@
         </section>
 
         <section class="card stack">
+          <h2>Streets In View</h2>
+          <div class="pill" id="street-catalog-count">Pick a town to load its street list.</div>
+          <input
+            id="street-catalog-filter"
+            placeholder="Filter the current town street list"
+            autocomplete="off"
+          />
+          <div class="list catalog-list" id="street-catalog-list"></div>
+        </section>
+
+        <section class="card stack">
           <h2>Find A Street</h2>
           <input
             id="street-search"
@@ -471,6 +516,9 @@
 
       const municipalityCard = document.getElementById('municipality-card');
       const municipalityFilter = document.getElementById('municipality-filter');
+      const streetCatalogCount = document.getElementById('street-catalog-count');
+      const streetCatalogFilterInput = document.getElementById('street-catalog-filter');
+      const streetCatalogList = document.getElementById('street-catalog-list');
       const streetSearchInput = document.getElementById('street-search');
       const streetSearchButton = document.getElementById('street-search-button');
       const clearSelectionButton = document.getElementById('clear-selection-button');
@@ -701,6 +749,10 @@
         return roadEntries.filter((entry) => entry.municipality === state.activeMunicipality);
       }
 
+      function shouldShowTownStreetCatalog() {
+        return municipalities.length === 1 || Boolean(state.activeMunicipality);
+      }
+
       function favoriteSubsetGeojson() {
         return {
           type: 'FeatureCollection',
@@ -831,6 +883,59 @@
         }
 
         municipalityFilter.value = state.activeMunicipality ?? '';
+      }
+
+      function renderStreetCatalog() {
+        streetCatalogList.innerHTML = '';
+
+        if (!shouldShowTownStreetCatalog()) {
+          streetCatalogCount.textContent = 'Pick a town to load its street list.';
+          streetCatalogFilterInput.value = '';
+          streetCatalogFilterInput.disabled = true;
+          streetCatalogList.innerHTML =
+            '<div class="list-empty">Pick a town from the filter to list every street in that town.</div>';
+          return;
+        }
+
+        streetCatalogFilterInput.disabled = false;
+        const query = streetCatalogFilterInput.value.trim().toUpperCase();
+        const townEntries = visibleRoadEntries();
+        const filteredEntries = townEntries.filter(
+          (entry) =>
+            !query ||
+            entry.displayName.toUpperCase().includes(query) ||
+            entry.searchLabel.toUpperCase().includes(query)
+        );
+
+        streetCatalogCount.textContent = query
+          ? `${numberFormatter.format(filteredEntries.length)} of ${numberFormatter.format(townEntries.length)} streets`
+          : `${numberFormatter.format(townEntries.length)} streets listed`;
+
+        if (!filteredEntries.length) {
+          streetCatalogList.innerHTML = '<div class="list-empty">No streets match that filter yet.</div>';
+          return;
+        }
+
+        for (const entry of filteredEntries) {
+          const button = document.createElement('button');
+          button.className = 'catalog-item';
+          button.type = 'button';
+          button.addEventListener('click', () => {
+            focusStreet(entry.roadKey);
+          });
+
+          const name = document.createElement('span');
+          name.className = 'catalog-name';
+          name.textContent = entry.displayName;
+          button.appendChild(name);
+
+          const note = document.createElement('span');
+          note.className = 'catalog-note';
+          note.textContent = state.favoriteKeys.has(entry.roadKey) ? 'Saved' : 'Fly to street';
+          button.appendChild(note);
+
+          streetCatalogList.appendChild(button);
+        }
       }
 
       function renderFavoritesList() {
@@ -1050,6 +1155,7 @@
         state.activeMunicipality = municipality || null;
         municipalityFilter.value = state.activeMunicipality ?? '';
         renderSearchOptions();
+        renderStreetCatalog();
         renderSummaryPills();
         applyRoadFilters();
 
@@ -1126,6 +1232,7 @@
         writeFavorites();
         syncFavoriteLayers();
         renderFavoritesList();
+        renderStreetCatalog();
         refreshSelectionUi();
       }
 
@@ -1305,6 +1412,7 @@
 
         renderMunicipalityOptions();
         renderSearchOptions();
+        renderStreetCatalog();
         renderSummaryPills();
         renderFavoritesList();
         renderPins();
@@ -1375,6 +1483,10 @@
 
       municipalityFilter.addEventListener('change', () => {
         setActiveMunicipality(municipalityFilter.value || null, { announce: true });
+      });
+
+      streetCatalogFilterInput.addEventListener('input', () => {
+        renderStreetCatalog();
       });
 
       streetSearchButton.addEventListener('click', () => {

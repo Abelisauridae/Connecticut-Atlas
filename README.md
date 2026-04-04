@@ -13,6 +13,7 @@ Interactive street-map project for Connecticut with two live demos today:
 - hover tooltips with street names and demographic context
 - favorite streets saved in the browser
 - custom pins with titles and notes saved in the browser
+- a full street list for the active town view
 - block-group demographic estimates from the 2020-2024 ACS 5-year release
 - municipality-aware favorites so duplicate street names do not collide across towns
 - North Haven fallback/private roads reconstructed from the Census geocoder
